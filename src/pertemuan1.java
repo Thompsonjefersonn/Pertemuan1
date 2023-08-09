@@ -1,4 +1,3 @@
-import java.util.*;
 public class pertemuan1 {
     public static void main(String[] args) {
       System.out.println("---Data mahasiwa---");
@@ -9,7 +8,6 @@ public class pertemuan1 {
         System.out.println("Tahun 2023/2024");
         System.out.println("Semester : Gasal");
         System.out.println("-------------------------");
-
 
     }
 }
